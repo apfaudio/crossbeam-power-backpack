@@ -248,7 +248,7 @@ fn main() -> ! {
 
         // auto-reset logic
 
-        if current_a < 0.1f64 {
+        if current_a < 0.130f64 {
             n_ilow += 1;
         }
 
